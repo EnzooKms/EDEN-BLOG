@@ -1,5 +1,14 @@
 @layout('layout/base')
 @set('title', 'Page principale')
+@set('css', 'http://localhost:8080/assets/navbar.css')
+@set('js', 'http://localhost:8080/assets/navbar.js')
 
 @section('section')
+@!component('components/navbar', {
+    
+})
+
+@!component('components/burger', {
+    'buttons': ['log in', 'sign in', 'all posts']
+})
 @endsection
