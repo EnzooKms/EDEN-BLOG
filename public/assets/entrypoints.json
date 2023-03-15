@@ -2,10 +2,28 @@
   "entrypoints": {
     "app": {
       "css": [
-        "http://localhost:63556/assets/app.css"
+        "http://localhost:8080/assets/app.css"
       ],
       "js": [
-        "http://localhost:63556/assets/app.js"
+        "http://localhost:8080/assets/app.js"
+      ]
+    },
+    "navbar": {
+      "css": [
+        "http://localhost:8080/assets/navbar.css"
+      ],
+      "js": [
+        "http://localhost:8080/assets/navbar.js"
+      ]
+    },
+    "logovert": {
+      "js": [
+        "http://localhost:8080/assets/logovert.js"
+      ]
+    },
+    "burger": {
+      "js": [
+        "http://localhost:8080/assets/burger.js"
       ]
     }
   }
