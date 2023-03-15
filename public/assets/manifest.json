@@ -1,4 +1,10 @@
 {
-  "assets/app.css": "http://localhost:63556/assets/app.css",
-  "assets/app.js": "http://localhost:63556/assets/app.js"
+  "assets/app.css": "http://localhost:8080/assets/app.css",
+  "assets/app.js": "http://localhost:8080/assets/app.js",
+  "assets/navbar.css": "http://localhost:8080/assets/navbar.css",
+  "assets/navbar.js": "http://localhost:8080/assets/navbar.js",
+  "assets/logovert.js": "http://localhost:8080/assets/logovert.js",
+  "assets/burger.js": "http://localhost:8080/assets/burger.js",
+  "assets/images/logovert.png": "http://localhost:8080/assets/images/logovert.4bfe1b48.png",
+  "assets/images/burger.png": "http://localhost:8080/assets/images/burger.ffe99a74.png"
 }

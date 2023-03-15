@@ -46,7 +46,9 @@ Encore.setPublicPath('/assets')
 |
 */
 Encore.addEntry('app', './resources/js/app.js')
-
+Encore.addEntry('navbar', './resources/js/navbar.js')
+Encore.addEntry('logovert', './resources/img/logovert.png')
+Encore.addEntry('burger', './resources/img/burger.png')
 /*
 |--------------------------------------------------------------------------
 | Copy assets
